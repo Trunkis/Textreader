@@ -33,3 +33,6 @@ Changes if the player can use StringLib for signs and execute commands via signs
 - Debug Toggle
 
 Determines if Developer can be used (Disabled by default) Change the #Value of textreader.zzz_config.debug to 0 = Disabled or 1 = Enabled
+
+### Credits
+gu, StringLib
