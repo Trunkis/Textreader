@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"- Page Contents -\n","color":"gold"},{"storage":"textreader","nbt":"book_context","interpret":true}]

@@ -1,0 +1,2 @@
+##Sends to self
+tellraw @s ["",{"text":"You read the sign. The contents are:\n","color":"gray","italic":true},{"text":"- Front Sign Text -\n","color":"gold"},{"storage":"textreader","nbt":"front[]","interpret":true},{"text":"\n- Back Sign Text -\n","color":"gold"},{"storage":"textreader","nbt":"back[]","interpret":true}]

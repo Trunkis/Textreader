@@ -1,0 +1,2 @@
+execute if score #UseDevmode textreader.zzz_complex_action matches 1.. if score @s textreader.zzz_config.developer_mode matches 1.. unless score #Value textreader.zzz_config.debug matches 0 run return run function textreader:sign/internal/debug with storage stringlib:output
+function textreader:sign/complex/send
