@@ -36,3 +36,6 @@ Determines if Developer can be used (Disabled by default) Change the #Value of t
 
 ### Credits
 gu, StringLib
+
+#### Screenshots
+![Screenshot (1296)](https://github.com/user-attachments/assets/36f2d92a-b6dd-4d0e-89b1-65ef7197484d)
