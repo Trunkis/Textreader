@@ -29,4 +29,4 @@ function textreader:loop
 scoreboard objectives add textreader.zzz_config.debug dummy
 scoreboard players set #Value textreader.zzz_config.debug 0
 
-tellraw @a ["",{"text":"Welcome to the Textreader!","color":"yellow"},{"text":"\nWhat's This?","color":"gold"},{"text":"\nTextreader is a utility that outputs the contents of a sign, book or text_display into chat!\nTo Learn more. Click "},{"text":"[Guide]","color":"blue","clickEvent":{"action":"run_command","value":"/trigger textreader.i_guide"}},{"text":"\n Make sure to provide feedback to make Textreader better!","color":"green"}]
+tellraw @a ["",{"text":"Welcome to Textreader!","color":"yellow"},{"text":"\nWhat's This?","color":"gold"},{"text":"\nTextreader is a utility that outputs the contents of a sign, book or text_display into chat!\nTo Learn more. Click "},{"text":"[Guide]","color":"blue","clickEvent":{"action":"run_command","value":"/trigger textreader.i_guide"}},{"text":"\n Make sure to provide feedback to make Textreader better!","color":"green"}]
