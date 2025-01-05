@@ -28,6 +28,6 @@ function textreader:loop
 
 ##Allows if debug can be used
 scoreboard objectives add textreader.zzz_config.debug dummy
-scoreboard players set #Value textreader.zzz_config.debug 0
+scoreboard players set #Value textreader.zzz_config.debug 1
 
 tellraw @a ["",{"text":"Welcome to Textreader!","color":"yellow"},{"text":"\nWhat's This?","color":"gold"},{"text":"\nTextreader is a utility that outputs the contents of a sign, book or text_display into chat!\nTo Learn more. Click "},{"text":"[Guide]","color":"blue","clickEvent":{"action":"run_command","value":"/trigger textreader.i_guide"}},{"text":"\n Make sure to provide feedback to make Textreader better!","color":"green"}]

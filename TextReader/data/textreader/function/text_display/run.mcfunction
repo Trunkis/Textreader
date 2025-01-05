@@ -1,4 +1,5 @@
 scoreboard players set @s textreader.a_text_display.do_send 0
+scoreboard players operation #Saved textreader.c_send_pos = @s textreader.c_send_pos
 
 ##Do a cast
 scoreboard players set #Success textreader.zzz_complex_action 0
