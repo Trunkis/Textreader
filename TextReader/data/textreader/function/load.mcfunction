@@ -13,6 +13,7 @@ scoreboard objectives add textreader.a_lectern.do_send trigger
 
 scoreboard objectives add textreader.a_text_display.do_send trigger
 
+scoreboard objectives add textreader.c_send_pos trigger
 scoreboard objectives add textreader.c_send_type trigger
 scoreboard objectives add textreader.c_index trigger
 

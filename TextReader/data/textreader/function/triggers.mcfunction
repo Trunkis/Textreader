@@ -6,6 +6,7 @@ scoreboard players enable @s textreader.a_book.do_send
 scoreboard players enable @s textreader.a_lectern.do_send
 scoreboard players enable @s textreader.a_text_display.do_send
 
+scoreboard players enable @s textreader.c_send_pos
 scoreboard players enable @s textreader.c_send_type
 scoreboard players enable @s textreader.c_index
 
