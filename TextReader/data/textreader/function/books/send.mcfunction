@@ -1,1 +1,1 @@
-tellraw @a ["",{"text":"- Page Contents -\n","color":"gold"},{"storage":"textreader","nbt":"book_context","interpret":true}]
+tellraw @a [{text:""},{text:"Page Contents: ",color:gold},{storage:textreader,nbt:book_context,interpret:true}]

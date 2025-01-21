@@ -1,1 +1,1 @@
-tellraw @s ["",{"text":"{Textreader} Lectern needs a book!","color":"red"}]
+tellraw @s [{text:"{Textreader} Lectern needs a book!",color:red}]
