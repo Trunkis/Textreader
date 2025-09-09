@@ -1,5 +1,5 @@
 scoreboard players add @s textreader.zzz_cast_steps 1
-tp @s ^ ^ ^.25
+tp ^ ^ ^.25
 #particle ash
 
 execute unless block ~ ~ ~ #textreader:non_solids run return fail

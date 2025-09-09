@@ -1,4 +1,4 @@
-tp @s ~ ~ ~ ~ ~ 
+rotate @s ~ ~
 function textreader:sign/internal/simple/cast/movement
 
-kill @s
+kill

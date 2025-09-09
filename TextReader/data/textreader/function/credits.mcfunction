@@ -1,3 +1,2 @@
 scoreboard players set @s textreader.i_credits 0
-#tellraw @s ["",{"text":"Textreader Credits","color":"aqua"},{"text":"\n| Developers\n","color":"red"},{"selector":"02e40f20-686a-4e40-8dda-84d3a2cadc3f"},{"text":"\nLibraries Used\n","color":"blue"},{"text":"gu","clickEvent":{"action":"open_url","value":"https://github.com/gibbsly/gu"}},{"text":"\nStringLib","clickEvent":{"action":"open_url","value":"https://github.com/CMDred/StringLib/"}}]
-tellraw @s [{text:"Textreader Credits is disabled! Refer to the credits on the GitHub",color:red}]
+tellraw @s ["",{"text":"Textreader Credits","color":"aqua"},{"text":"\n| Developers\n","color":"red"},{"selector":"02e40f20-686a-4e40-8dda-84d3a2cadc3f"},{"text":"\nLibraries Used\n","color":"blue"},{"text":"gu","click_event":{"action":"open_url","url":"https://github.com/gibbsly/gu"}},{"text":"\nStringLib","click_event":{"action":"open_url","url":"https://github.com/CMDred/StringLib/"}}]
